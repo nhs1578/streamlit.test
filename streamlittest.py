@@ -24,6 +24,10 @@ st.write("### 이미지")
 st.image("https://streamlit.io/images/brand/streamlit-logo-horizontal.svg", width=300)
 
 
+st.markdown("---")
+
+
+
 
 st.write("# test")
 st.header("header test")
